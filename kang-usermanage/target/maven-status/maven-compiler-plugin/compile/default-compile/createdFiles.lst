@@ -1,0 +1,8 @@
+com\kang\mybatis\mapper\NewUserMapper.class
+com\kang\mybatis\mapper\UserMapper.class
+com\kang\mybatis\pojo\User.class
+com\kang\mybatis\service\NewUserService.class
+com\kang\mybatis\controller\PageController.class
+com\kang\mybatis\bean\EasyUIResult.class
+com\kang\mybatis\service\UserService.class
+com\kang\mybatis\controller\UserController.class
